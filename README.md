@@ -27,15 +27,9 @@ Financial literacy is often overlooked in traditional education. **MyMoneyVerse*
 - **Frontend**: Next.js + Tailwind CSS
 - **Backend**: (Planned) Firebase or Node.js
 - **Game Logic**: Custom turn-based simulation engine
-- **Design**: Figma-based UI
 
 ---
 
-## 📷 Mockups
-
-> Coming soon: Figma designs + gameplay walkthroughs
-
----
 
 ## 🏁 Getting Started
 
